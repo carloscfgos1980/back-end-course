@@ -1,0 +1,4 @@
+Tutorials:
+1. learning Flask Web teach about database, Blueprints, links notes with one user, etc
+2. learning-Flask Authentication. Learning about database, how to set ip a new account and how to log in that account
+3. desenvolv-app. I haven't study this example

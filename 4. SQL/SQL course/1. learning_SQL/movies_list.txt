@@ -1,0 +1,5 @@
+INSERT INTO movies(title, year, rating) VALUES ("Pulp Fiction", 1993, 5);
+INSERT INTO movies(title, year, rating) VALUES ("Shark", 1990, 4);
+INSERT INTO movies(title, year, rating) VALUES ("Mummy", 2008, 3);
+INSERT INTO movies(title, year, rating) VALUES ("Habana Blue", 2010, 5);
+INSERT INTO movies(title, year, rating) VALUES ("Wedding", 2020, 3);
